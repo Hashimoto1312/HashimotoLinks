@@ -1,0 +1,27 @@
+html {
+   font-size: 62.5%;
+}
+
+.eu {
+   width: 5%;
+   border-radius: 50%;
+}
+
+.user {
+
+}
+
+.links-div {
+
+}
+
+.links {
+   
+}
+
+footer { 
+   bottom: 0;
+   position: fixed;
+   width: 100%;
+   text-align: center;
+}
